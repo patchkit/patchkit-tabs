@@ -1,6 +1,6 @@
 {
   "name": "patchkit-tabs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Vertical and horizontal tabs",
   "main": "index.jsx",
   "scripts": {
