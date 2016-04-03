@@ -32,7 +32,7 @@ export default class Tabs extends React.Component {
     vertical: React.PropTypes.bool,
     className: React.PropTypes.string,
     tabs: React.PropTypes.array.isRequired,
-    selected: React.PropTypes.object,
+    selected: React.PropTypes.any,
     onSelect: React.PropTypes.func
   }
   render() {
